@@ -2,11 +2,11 @@
 TASK MANAGER APPLICATION - MVC PHP Mini Framework v.01 - @Belov_Andrey a.belov.dev@gmail.com 
 
 How to install:
--[1] Clone project
--[2] Create Mysql database and import dump from mvc.sql
--[3] Create file .env in ' / ' directory and copy data from .env.example
--[4] Edit file .env with your data environment
--[5] Enjoy! :)
+- [1] Clone project
+- [2] Create Mysql database and import dump from mvc.sql
+- [3] Create file .env in ' / ' directory and copy data from .env.example
+- [4] Edit file .env with your data environment
+- [5] Enjoy! :)
 
 <i>ps. Admin login/pass in DB dump.</i>
 
